@@ -1,0 +1,5 @@
+/**
+ * This file is NOT required at runtime. Jest will use `jest.mock('../models/bug')`
+ * and load the real module path. We keep a simple implementation in test via mocking.
+ */ 
+module.exports = {};
